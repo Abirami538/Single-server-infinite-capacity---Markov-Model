@@ -56,7 +56,8 @@ print("---------------------------------------------------------------")
 
 Output :
 
-![Screenshot 2024-12-16 094010](https://github.com/user-attachments/assets/582c4ad5-9f8d-4ff3-a1d6-35ef08f4c927)
+![Screenshot 2024-12-16 093028](https://github.com/user-attachments/assets/091a2dce-01c6-4111-9818-ff286b05ee23)
+
 
 RESULT : 
 
